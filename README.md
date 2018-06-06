@@ -28,7 +28,7 @@ NOTE: If you look at the source code, you are only cheating yourself. Work hard 
 
 We expect to see your submission for this coding challenge before 5pm today. Good luck!
 
-- The Mountain Peak Software Team
+-- The Mountain Peak Software Team
 
 -------------------------------------------------------------------
 
