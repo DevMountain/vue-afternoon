@@ -2,7 +2,7 @@
 
 **Note:** This project is intended to mimic a potential coding challenge from a company to a job applicant. You recently applied to Mountain Peak Software for a front end position and you recieved the following coding challenge:
 
-```
+-------------------------------------------------------------------
 Applicant,
 
 Thank you for your interest in our company and the front end developer position that we are currently trying to fill. At Mountain Peak Software, we pride ourselves on staying on the cutting edge of technology within the relm of web development. This means that we expect our entire dev team to be continuously learning.
@@ -28,7 +28,10 @@ NOTE: If you look at the source code, you are only cheating yourself. Work hard 
 
 We expect to see your submission for this coding challenge before 5pm today. Good luck!
 
-```
+- The Mountain Peak Software Team
+
+-------------------------------------------------------------------
+
 
 You are on the clock! Mountain Peak Software expects this VueJS project back to them by 5pm today! 
 
