@@ -11,7 +11,7 @@ We would like to build a portion of our website in VueJS and we are looking for 
 
 Requirements:
 
-We want you to show a little of your fun/creative side and build us a app called "Battle Bots". You need to be able to display two main things:
+We want you to show a little of your fun/creative side and build us an app called "Battle Bots". You need to be able to display two main things:
 
 1. A form to create a new battle bot with a name, attack value, and health value
 2. A list of all battle bots that have been created
@@ -22,7 +22,7 @@ You should also be able to select two of your battle bots from the list and have
 
 Here is an example of what is described above: https://joeblank.github.io/sample-vue-afternoon-project/ 
 
-We do not care about styling, we assume you know how to use a little CSS. Your focus should be on the logic of this app. Only spend time to make things look good if you have extra time to do so.
+Don't spend much time styling, we assume you know how to use a little CSS. Your focus should be on the logic of this app. Only spend time to make things look good if you have extra time to do so.
 
 NOTE: If you look at the source code, you are only cheating yourself. Work hard and learn something today that your future self will thank you for.
 
@@ -53,8 +53,8 @@ Dont forget about the VueJS docs: https://vuejs.org/v2/guide/
 ## Black Diamond
 
 If you finish this project early, here is what you should do next:
-1. Make your battle bot's health and attack editable.
-2. Write an algorithm to decide the battle winner, no longer random.
+1. Make your battle bot's health and attack values editable.
+2. Write an algorithm to decide the battle winner instead of it being random.
 3. Use a little CSS and make your app look good.
 4. Figure out how to use vue-router to replace your fake routes.
 
